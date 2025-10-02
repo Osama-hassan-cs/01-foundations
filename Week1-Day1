@@ -1,0 +1,34 @@
+````markdown
+# Week 1 - Day 1 (Orientation + File System Basics)
+
+## ✅ Summary
+- Video(s) watched: 
+  - [✅ ] Main course: (FreeCodeCamp Linux Course (0:00 → 0:16:37) → Intro + Linux Families + Linux Basics)
+  - [ ✅] Extra/supplement: (NetworkChuck: Linux Crash Course (EP 1, ~11min))
+- Book/Reading:The Linux Command Line by William Shotts → Introduction + Chapter 1 (“What is the Shell?”).
+- Key concept(s) learned today:Understanding Linux, navigating the filesystem.
+
+## 📚 Commands I Practiced
+```bash
+pwd
+ls
+cd /
+cd /home
+mkdir test_folder
+cd test_folder
+touch hello.txt
+nano hello.txt 
+
+````
+
+## 📸 Screenshot(s)
+
+![screenshot1]()
+![screenshot2]
+
+
+
+## 📝 Notes / Reflection
+
+
+```
