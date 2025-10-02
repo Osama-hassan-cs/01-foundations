@@ -1,0 +1,34 @@
+````markdown
+# Week 1- Day 2 (Files & Directories)
+
+## ✅ Summary
+- Video(s) watched: 
+  - [✅] Main course: (FreeCodeCamp Linux Course (0:16:37 → 1:05:36) → System startup + GUI basics (skim GUI, focus terminal).)
+  - [✅] Extra/supplement: 🎥 NetworkChuck: Linux File System explained in 1233 seconds (EP 2).
+- [✅] Book/Reading: (The Linux Command Line → Chapter 2 (“Navigation”).)
+- Key concept(s) learned today: (Navigating, creating, deleting files and directories)
+
+## 📚 Commands I Practiced
+```bash
+cd ~
+mkdir projects
+cd projects
+mkdir week1
+cd week1
+touch file1.txt file2.txt
+ls -l
+rm file2.txt
+mv file1.txt renamed.txt
+
+````
+
+## 📸 Screenshot(s)
+
+![screenshot1](link-to-screenshot1.png)
+![screenshot2](link-to-screenshot2.png)
+
+
+## 📝 Notes / Reflection
+
+
+```
